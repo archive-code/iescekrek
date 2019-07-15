@@ -11,7 +11,7 @@ printf "\e[1;92m   | |  ___  ___  \e[0m\e[1;77m  ___ ___| | ___ __ ___| | __  / 
 printf "\e[1;92m   | | / _ \/ __| \e[0m\e[1;77m / __/ _ \ |/ / '__/ _ \ |/ / < <  \e[0m\n"
 printf "\e[1;92m  _| ||  __/\__ \ \e[0m\e[1;77m  (_|  __/   <| | |  __/   <   \ \ \e[0m\n"
 printf "\e[1;92m |_____\___||___/ \e[0m\e[1;77m \___\___|_|\_\_|  \___|_|\_\   \_\ \e[0m\n"
-printf "\e[1;92m                                                   
+printf "\e[1;92m                     "                              
 printf " \e[1;77m v1.0 coded by github.com/archive-code/iescekrek\e[0m \n"
 
 printf "\n"
